@@ -6,9 +6,9 @@
 1. OAuthController の `CLIENT_ID` と `CLIENT_SECRET` を変更してください。
 1. 以下のコマンドを実行してください。
 
-```bash
-./gradlew bootRun
-```
+    ```bash
+    ./gradlew bootRun
+    ```
 
 1. 起動後 `http://localhost:8080/oauth` にアクセスしてください。
 
